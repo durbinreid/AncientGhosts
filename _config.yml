@@ -65,4 +65,5 @@ sass:
   style: compressed
 
 #########
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+
