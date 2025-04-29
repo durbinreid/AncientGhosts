@@ -4,10 +4,13 @@ creator,Creator
 source,Source
 subject,Subjects
 date,Date Created
-collection,Source Collection
+source,Source
 identifier,Source Identifier
 format,Format
 language,Language
 genre,Genre
 publisher,Publisher
 editor,Editor
+texturi,Full Text URI,,true
+rights,Rights,,
+rights-statement,Rights Statement,,true
