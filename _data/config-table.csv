@@ -1,5 +1,13 @@
 field,display_name
 title,Title
-date,Date
 description,Description
+creator,Creator
 subject,Subjects
+date,Date Created
+collection,Source Collection
+identifier,Source Identifier
+format,Format
+language,Language
+genre,Genre
+publisher,Publisher
+editor,Editor
