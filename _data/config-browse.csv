@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 title,Item Title,,,Title
 creator,Creator,,,Creator
-date,Date Created,,,Date
+date,Date Created,,,
 description,Description,,,
 subject,Subjects,,,Subject
 source,Source,,,Source
