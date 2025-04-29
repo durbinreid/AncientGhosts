@@ -1,10 +1,10 @@
 field,display_name,btn,hidden,sort_name
 title,Item Title,,,
-creator,Creator,,true
+creator,Creator,,,true
 date,Date Created,,,
 description,Description,,,Date
-subject,Subjects,,true
-collection,Source Collection,,true
+subject,Subjects,,,true
+collection,Source Collection,,,true
 identifier,Source Identifier,,,
-language,Language,,true
-genre,Genre,,true
+language,Language,,,true
+genre,Genre,,,true
