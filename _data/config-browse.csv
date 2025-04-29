@@ -1,5 +1,10 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+Field,display_name
+title,Item Title
+creator,Creator
+date,Date Created
+description,Description
+subject,Subjects
+collection,Source Collection
+identifier,Source Identifier
+language,Language
+genre,Genre
