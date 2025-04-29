@@ -1,18 +1,18 @@
-Field,display_name
-objectid,
-filename,
-title,Item Title
-creator,Creator
-date,Date Created
-description,Description
-subject,Subjects
-collection,Source Collection
-identifier,Source Identifier
-format,Format
-language,Language
-genre,Genre
-publisher,Publisher
-editor,Editor
-texturi,Full Text URI
-rights,Rights
-rights-statement,Rights Statement
+field,display_name,browse_link,external_link
+objectid,,,
+filename,,,
+title,Item Title,,
+creator,Creator,,
+date,Date Created,,
+description,Description,,
+subject,Subjects,,
+collection,Source Collection,,
+identifier,Source Identifier,,
+format,Format,,
+language,Language,,
+genre,Genre,,
+publisher,Publisher,,
+editor,Editor,,
+texturi,Full Text URI,,true
+rights,Rights,,
+rights-statement,Rights Statement,,true
