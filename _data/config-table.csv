@@ -1,7 +1,7 @@
 field,display_name
 title,Title
-description,Description
 creator,Creator
+source,Source
 subject,Subjects
 date,Date Created
 collection,Source Collection
