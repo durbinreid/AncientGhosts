@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 title,Item Title,,,
 creator,Creator,,,true
-date,Date Created,,,
-description,Description,,,Date
+date,Date Created,,,Date
+description,Description,,,
 subject,Subjects,,,true
 collection,Source Collection,,,true
 identifier,Source Identifier,,,
