@@ -10,6 +10,6 @@ language,Language
 genre,Genre
 publisher,Publisher
 editor,Editor
-texturi,Full Text URI,,true
-rights,Rights,,
-rightsstatement,Rights Statement,,true
+texturi,Full Text URI
+rights,Rights
+rightsstatement,Rights Statement
