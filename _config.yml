@@ -59,7 +59,7 @@ metadata: ghostdata
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md]
+exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, map.html, timeline.html, timelinejs.html, about.html, 210a.jpg, 210b.jpg, demo_001.jpg, demo_002.pdf, demo_003.mp3, demo_004.jpg, hells_half_theta.jpg, ]
 # compress CSS output
 sass:
   style: compressed
